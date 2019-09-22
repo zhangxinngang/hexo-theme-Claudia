@@ -9,7 +9,7 @@ rss: /atom.xml
 
 # User Info
 user_name: zhangxingang
-user_avatar: zh3ng_icon.jpg
+user_avatar: https://zh3ng-blogs-images-1257317264.cos.ap-chengdu.myqcloud.com/images/zh3ng_icon.jpg
 user_location: beijing
 user_description: "Talk is cheap,show me the code"
 user_contact: zhangxg0707@gmail.com
@@ -22,7 +22,7 @@ github_username: zhangxinngang
 twitter_username: 
 weibo_username:
 zhihu_username: 
-facebook_username:
+facebook_username: 100005614714505
 linkedin_username:
 
 # Content
