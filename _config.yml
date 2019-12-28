@@ -29,9 +29,9 @@ linkedin_username:
 excerpt_link: Read More
 fancybox: true
 
-# display widgets at the bottom of index pages (pagination == 2)
-#index_widgets:
-# - category
+#display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+- category
 # - tagcloud
 # - archive
 
